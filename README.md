@@ -1,2 +1,5 @@
 # Numerical_Methods
-Various numerical methods for computational problems
+This repo hosts various numerical methods for computational problems. 
+Currently implemented methods:
+- Numerical Integration
+- Numerical Root Finding
